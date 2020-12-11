@@ -1,4 +1,4 @@
-
+https://cdn.vsassets.io/ext/ms.vss-test-web/common-content/no-failed-tests.nh7bCM__EYrp4gERJ.svg
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
