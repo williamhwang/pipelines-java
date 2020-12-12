@@ -1,4 +1,4 @@
-
+https://dev.azure.com/whwang0950/myjmproject/_apis/build/status/williamhwang.pipelines-java?branchName=master
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
